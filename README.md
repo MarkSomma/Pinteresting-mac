@@ -1,4 +1,8 @@
 Hello world!
+How are you.
+
+
+#file renamed from README.rdoc to README.md
 
 == README
 
