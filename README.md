@@ -1,8 +1,14 @@
+# One Month Rails
+
 Hello world!
 How are you.
 
+this is the Pinteresting-mac sample application for
+[*One Month Rails*](https://onemonth.com)
 
-#file renamed from README.rdoc to README.md
+By [Mark Somma] (https://plus.google.com/u/0/+MarkSomma/posts)
+
+# file renamed from README.rdoc to README.md
 
 == README
 
